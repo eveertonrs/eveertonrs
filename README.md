@@ -3,7 +3,6 @@
 
 
 - 🔭 Hoje trabalho com Back-End
-- 🌱 Estudando .NET
 - 💬 email evertonbarbosars@gmail.com
 - 📫 Pode me contatar via Linkedin : https://www.linkedin.com/in/everton-barbosa-3a7234184/
 
