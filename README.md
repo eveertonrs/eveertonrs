@@ -1,6 +1,5 @@
 <!-- README.md - Everton Barbosa (HTML + Markdown) -->
 <div align="center" style="line-height:1.2">
-  <img src="https://github.com/eveertonrs.png" alt="Everton Barbosa" width="140" style="border-radius:50%;"/>
   <h1 style="margin:8px 0 0;">Everton Barbosa</h1>
   <p style="margin:4px 0 12px; color:var(--color-muted,#9aa4b2)">Desenvolvedor .NET • Back-End • TMS/WMS</p>
 
